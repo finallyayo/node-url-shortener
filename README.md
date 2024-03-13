@@ -2,7 +2,7 @@
 
 ![Screenshot or GIF of the application in action](screenshot.png)
 
-A URL Shortener Application built with Node.js, Express and MongoDB. See the
+A URL Shortener Application built with Node.js, Fastify and MongoDB. See the
 [fastify branch](https://github.com/finallyayo/node-url-shortener/tree/fastify)
 for the Fastify version.
 
